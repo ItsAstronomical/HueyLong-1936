@@ -9,7 +9,9 @@ A mod for The New Campaign Trail, set in an alternate 1936, featuring Huey Long 
 # FAQ
 - **There's plans for a Alf Landon scenario, right?**
 
-Of course. However, as this is my first mod, my goal is to release what I have and take any feedback to ensure everything is the best it can be. I don't have a set release date for Alf Landon, as schoolwork often gets in the way, but I'm sure it'll be released within the next few months.
+~~Of course. However, as this is my first mod, my goal is to release what I have and take any feedback to ensure everything is the best it can be. I don't have a set release date for Alf Landon, as schoolwork often gets in the way, but I'm sure it'll be released within the next few months.~~
+
+Yes, and it's out now. 
 
 - **Is there a regular 1936 mod?**
 
